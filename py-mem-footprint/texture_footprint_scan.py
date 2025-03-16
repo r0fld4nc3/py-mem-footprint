@@ -6,6 +6,7 @@ from pathlib import Path
 TEXTURE_PREFIX = "T"
 
 MAPPING = {
+    "C": "DXT5",
     "D": "DXT5",
     "E": "DXT5",
     "M": "DXT5",
